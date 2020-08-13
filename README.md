@@ -4,7 +4,7 @@ Automation with Bash Shell Scripting Tutorials
 
 # Syllabus Info:
 
-##1.Introduction:
+## 1.Introduction:
 ```
   1. Course Overview
   2. Evnironment Setup to practive Bash Shell Scripting
