@@ -9,4 +9,5 @@ Automation with Bash Shell Scripting Tutorials
   2. Evnironment Setup to practive Bash Shell Scripting
   3. Congiguring Gmail Setup on Ubuntu Server
   4. Basic Steps to Write and Execute a Bash Shell Script
+  5. List of General Purpose Commands and Help to Understand about the usage of a command
 ```
