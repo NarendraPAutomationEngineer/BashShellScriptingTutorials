@@ -1,0 +1,2 @@
+The user is: automation
+The home for this automation is: /home/automation
